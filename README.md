@@ -16,7 +16,7 @@ Recently, I have explored the world of Machine Learning and Deep Learning by wor
 <br><br>    
 
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on the various CNN models for human emotion classification and detection.
 - 🌱 I’m currently learning Django 
 - 📫 How to reach me: You may find the details towards the end of this portfolio. 
 - 😄 Pronouns: He/Him/His 
